@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mackay-g
+- 👋 Hi, I’m Greg
 - 👀 I’m interested in Japan
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Japan-related projects
